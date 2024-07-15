@@ -78,3 +78,6 @@ Enjoy!!! If you find any issue please open the issue.
 
 ![enter image description here](https://i.ibb.co/fDRjZf9/search.png)
 
+**Coming Next**
+A more secure version using authorisation and faster CRUD operations are being implemented. Will be updated soon!
+
